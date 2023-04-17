@@ -1,0 +1,16 @@
+{
+"name": "Viktoryia",
+"secondname": "Latsinskaya",
+"age": 29,
+"gender": "female",
+"marriage": true,
+"phonenamber": ["3961131", "3456324"],
+"address": {"city": "Minsk", "zip": "220000", "street": "Pushkina"},
+"righthended": true,
+"hobbies": null,
+"education": {"institution": "BELARUS STATE ECONOMIC UNIVERSITY", "startDate": "Sep 2011", "endDate": "Jun 2015"},
+"experience": {"Company Name": "Prinosim radost", "position": "manager", "startDate": "April 2018", "endDate": "Present"},
+"email": "vlatinskaya@gmail.com",
+"foreign languages": {"English": "A1"},
+"driving license": "Category B"
+}
